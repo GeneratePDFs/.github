@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://generatepdfs.com/logo-full.svg" alt="GeneratePDFs Logo" width="260">
+    <img src="https://raw.githubusercontent.com/GeneratePDFs/.github/refs/heads/main/profile/logo-full.png" alt="GeneratePDFs Logo">
 </p>
 
 # GeneratePDFs
