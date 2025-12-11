@@ -64,6 +64,6 @@ If the content exists as HTML, GeneratePDFs can produce a reliable PDF version o
 ## Useful links
 
 - Website: https://generatepdfs.com  
-- SDKs: see links above  
-- Support: available in the dashboard  
+- HTML to PDF guide: https://github.com/GeneratePDFs/html-to-pdf
+- HTML to PDF API guide: https://github.com/GeneratePDFs/html-to-pdf-api
 
