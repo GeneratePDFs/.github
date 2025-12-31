@@ -38,7 +38,7 @@ SDKs are the quickest way to work with GeneratePDFs in your own apps. Each one p
 - **Laravel SDK**  
   https://github.com/generatepdfs/laravel-sdk  
 
-- **Node and TypeScript SDK** [Work in Progress]  
+- **NodeJS SDK**  
   https://github.com/generatepdfs/node-sdk
 
 - **Ruby SDK** [Work in Progress]  
