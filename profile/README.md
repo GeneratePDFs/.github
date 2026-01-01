@@ -41,7 +41,7 @@ SDKs are the quickest way to work with GeneratePDFs in your own apps. Each one p
 - **NodeJS SDK**  
   https://github.com/generatepdfs/node-sdk
 
-- **Ruby SDK** [Work in Progress]  
+- **Ruby SDK**
   https://github.com/generatepdfs/ruby-sdk  
 
 More SDKs will be added over time.
